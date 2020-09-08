@@ -2,8 +2,7 @@
 Provided scripts for deriving training and testing data for table detection tasks.
 
 The data which was intially used can be requested under https://doc-analysis.github.io/.
-The data has to be stored in the folder
-/data/tablebank/Detection_data.
+The data cannot be provided here and thus has to be requested and stored in the folder /data/tablebank/Detection_data.
 
 The following scripts are provided:
 
